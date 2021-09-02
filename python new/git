@@ -1,0 +1,14 @@
+Multiplr developer
+
+git clone->remote repository exact copy local
+git push->local repo =>remote repository
+git pull->remote repository->local(updation)
+
+single developer
+ staging area
+ git add=>adding staging area
+ git commit=>staging area to local repo
+
+ git init->initializing empty git repository
+ git status=>list untracked files
+

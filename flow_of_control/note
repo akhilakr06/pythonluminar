@@ -1,0 +1,12 @@
+flow of control
+1. conditional statements
+     #if
+     #else
+     #elif
+ eg:
+ a=10
+ if a > 0
+    print("hello")
+ else:
+    print("wrong condition")
+

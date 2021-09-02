@@ -1,0 +1,16 @@
+num1= int(input("num1:"))
+num2= int(input("num2:"))
+res= num1+num2
+print("Addition = ",res)
+res= num1-num2
+print("Substraction = ",res)
+res= num1*num2
+print("Multiplication = ",res)
+res= num1/num2
+print("Division = ",res)
+res= num1%num2
+print("Modulus = ",res)
+res= num1//num2
+print("Floor div = ",res)
+res= num1**num2
+print("Exponent = ",res)
