@@ -8,3 +8,5 @@ lst2=[20,21,22,23,24,30]
 
 common = [x for x in lst1 if x in lst2]
 print(common)
+
+
