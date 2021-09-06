@@ -10,3 +10,4 @@ num_list=[1, 2, 7, 4, 5, 6, 0, 3]
 n=6
 
 print(find_pairs_of_numbers(num_list,n))
+

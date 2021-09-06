@@ -10,7 +10,7 @@ employees = [
 
 # e_names=list(map(lambda employee:employee["e_name"],employees))
 # print(e_names)
-#
+
 # # ename in uppercase
 # e_upper=list(map(lambda employee:employee["e_name"].upper(),employees))
 # print(e_upper)
