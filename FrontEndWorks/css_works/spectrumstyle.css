@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    background-color: black;
+}
+h2{
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+    text-align: center;
+}
+/* #art{
+    margin: auto;
+}
+
+#col{
+    height: 204px;
+    width: 151px;
+} */
+
+table{
+    margin: auto;
+}
+
+td{
+    height: 204px;
+    width: 151px;
+    border: 6px solid black;
+    border-bottom: 61px solid black;
+}
+
+#one{
+    background-color:#4D5057 ;
+    /* height: 204px;
+    width: 151px;
+    margin: auto; */
+}
+#two{
+    background-color:#4E6E5D;
+    /* height: 204px;
+    width: 151px;
+    margin: auto; */
+}
+#three{
+    background-color:#4DA167;
+    /* height: 204px;
+    width: 151px;
+    margin: auto; */
+}
+#four{
+    background-color: #3BC14A;
+    /* height: 204px;
+    width: 151px;
+    margin: auto; */
+}
+#five{
+    background-color:#CFCFCF;
+    /* height: 204px;
+    width: 151px;
+    margin: auto; */
+}
+
+
+
+
+
+/* ----------------------- */
+
+
+
+#six{
+    background: #EE8434;
+  }
+  
+  #seven{
+    background: #C95D63;
+  }
+  
+  #eight{
+    background: #AE8799;
+  }
+  
+  #nine{
+    background: #717EC3;
+  }
+  
+  #ten{
+    background: #3C5AB4;
+  }
+  
+  #eleven{
+    background: #717EC3;
+  }
+  
+  #twelve{
+    background: #625F63;
+
+  }
+  #thirteen{
+    background: #72727E;
+  }
+
+
+    /* #32a852 */
+/* table{
+    margin: auto;
+}
+td{
+    width: 50px;
+    height: 200px;
+}
+#first #one{
+    background-color: rgb(209, 157, 138);
+}
+#first #two{
+    background-color: #eb6f42; */

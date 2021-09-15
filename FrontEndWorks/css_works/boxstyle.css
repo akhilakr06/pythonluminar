@@ -1,0 +1,23 @@
+div{
+    height: 112px;
+    background-color:grey;
+    width: 50%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: honeydew;
+    margin-left: 321px;
+    /* padding: 50px; */
+    /* padding-top: 10px; */
+}
+
+.head{
+    
+}
+.foot{
+
+    margin-top: 353px;
+}
+
+.head a:nth-child(1){
+    margin:20px;
+}

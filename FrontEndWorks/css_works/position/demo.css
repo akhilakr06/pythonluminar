@@ -1,0 +1,15 @@
+.box1{
+    width: 20%;
+    height: 500px;
+    border: 1px solid gold;
+    position: relative;
+    left: 30%;
+}
+.name{
+    color: blue;
+    font-size: 20px;
+}
+.uname{
+    width: 200px;
+    height: 30px;
+}
