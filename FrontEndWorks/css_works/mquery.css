@@ -1,0 +1,31 @@
+.row{
+    width: 80%;
+    height: 200px;
+    background-color: hotpink;
+    height: 200px;
+}
+
+.col{
+    width: 30%;
+    height: 200px;
+    background-color: lightcyan;
+}
+@media(max-width:550px){
+    .col{
+        background-color: lightseagreen;
+    }
+    .col h3{
+        color: white;
+        font-weight: 200;
+        font-size: 10px;
+    }
+}
+/* @media(max-width:500px){
+    .row{
+        background-color: khaki;
+    }
+    .row h3{
+        text-align: center;
+        color: lightcoral;
+    }
+} */
